@@ -14,5 +14,5 @@ achieved 22.46, which is 4.46 higher than a backbone method, for the Australian 
 Robotic Vision (ACRV) validation dataset consisting of four videos.
 
 ## Result
-![캡처](https://user-images.githubusercontent.com/54341727/125397077-661c9880-e3e8-11eb-8a5b-4665b7ea7159.PNG)
 ![캡처](https://user-images.githubusercontent.com/54341727/125396902-29e93800-e3e8-11eb-8b96-45868a7b27b6.PNG)
+![캡처](https://user-images.githubusercontent.com/54341727/125397077-661c9880-e3e8-11eb-8a5b-4665b7ea7159.PNG)
