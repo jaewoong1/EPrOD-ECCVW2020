@@ -1,9 +1,7 @@
 # Eprod-ECCVW2020
 [ECCVW2020] A repository of EPrOD
 
-coming soon..
-
-##Abstract
+## Abstract
 
 Even small errors in object detection algorithms can lead to serious accidents in
 critical fields such as factories and autonomous vehicles. Thus, a so-called probabilistic object
@@ -14,3 +12,4 @@ techniques, i.e., albedo extraction, soft-DropBlock, stacked NMS, and inter-fram
 In terms of Probability-based Detection Quality (PDQ) metric, the proposed object detector
 achieved 22.46, which is 4.46 higher than a backbone method, for the Australian Centre for
 Robotic Vision (ACRV) validation dataset consisting of four videos.
+
