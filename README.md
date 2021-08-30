@@ -1,7 +1,7 @@
 # Eprod-ECCVW2020
 [ECCVW2020] A repository of EPrOD
 
-[Jaewoong Choi](https://github.com/jaewoong1), Sungwook Lee(https://github.com/sungwool), [Byung Cheol Song](https://scholar.google.com/citations?user=yo-cOtMAAAAJ&hl=ko&oi=sra)
+[Jaewoong Choi](https://github.com/jaewoong1), [Sungwook Lee](https://github.com/sungwool), [Byung Cheol Song](https://scholar.google.com/citations?user=yo-cOtMAAAAJ&hl=ko&oi=sra)
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-65414-6_6)
 ## Abstract
